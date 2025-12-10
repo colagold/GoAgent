@@ -3,3 +3,6 @@ run-chain-lambda:
 
 run-chain-agent:
 	go run ./chain/agent/main.go
+
+run-adk-hello-agent:
+	go run ./adk/hello-agent/main.go
