@@ -13,5 +13,5 @@ run-es-demo:
 run-router-anget:
 	go run ./adk/transfer-agent/main.go
 
-run-excel-agent:
-	go run ./adk/multiagent/integration-excel-agent/
+run-tool-agent:
+	go run ./adk/tool-agent/main.go
