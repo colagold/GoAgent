@@ -15,3 +15,6 @@ run-router-anget:
 
 run-tool-agent:
 	go run ./adk/tool-agent/main.go
+
+run-deep-search:
+	go run ./adk/deep-research/main.go
